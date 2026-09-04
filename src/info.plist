@@ -80,7 +80,7 @@
 				<key>script</key>
 				<string>export LC_CTYPE=en_US.UTF-8
 
-/usr/bin/python dfx.py "{query}"</string>
+/usr/bin/python3 dfx.py "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -140,7 +140,7 @@
 				<key>script</key>
 				<string>export LC_CTYPE=en_US.UTF-8
 
-/usr/bin/python dfx.py -t fav "{query}"</string>
+/usr/bin/python3 dfx.py -t fav "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -185,7 +185,7 @@
 				<key>script</key>
 				<string>export LC_CTYPE=en_US.UTF-8
 
-/usr/bin/python dfx.py -t rfile -t rfolder "{query}"</string>
+/usr/bin/python3 dfx.py -t rfile -t rfolder "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
